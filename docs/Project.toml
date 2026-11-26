@@ -1,0 +1,9 @@
+[deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+GiacOscar = "e1eacc98-f89c-475a-9125-d8abcc1d93b3"
+
+[sources]
+GiacOscar = {path = ".."}
+
+[compat]
+Documenter = "1"
